@@ -1,0 +1,25 @@
+Interface load threshold is 80 percent
+--------------------------------
+
+LabSW3 uptime is 56 minutes
+Interface load is above threshold on the following interfaces
+FastEthernet1/0/45
+txload is 87.5 percent
+rxload is 87.5 percent
+
+--------------------------------
+--------------------------------
+
+LabSW4 uptime is 56 minutes
+Interface load is above threshold on the following interfaces
+
+--------------------------------
+--------------------------------
+
+LabSW5 uptime is 57 minutes
+Interface load is above threshold on the following interfaces
+FastEthernet0/21
+txload is 85.9 percent
+rxload is 85.9 percent
+
+--------------------------------
