@@ -33,7 +33,6 @@ myThr = int(myThr)
 # print(myThr)
 
 all_devices = [LabSW3, LabSW4, LabSW5]
-# all_devices = [LabSW3, LabSW4]
 # all_devices = [LabSW5]
 
 for devices in all_devices:
@@ -49,9 +48,8 @@ for devices in all_devices:
 
     intCount = len(x)
     # print(intCount, "matches found with regex")
-    # print(intCount)
 
-    # print("For example, match 10")
+    # print("For example, regex match 10")
     # print(x[10])
     # print(x[10][0])
     # print(x[10][1])
